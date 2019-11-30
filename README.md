@@ -10,7 +10,7 @@ D:\ftp\bot \
 D:\ftp\bot\hahaha \
 並使用我的框架，裡面有完成架構規劃的Line Bot Controller \
  \
-我的route是動態路由，因此如果你會的化，可以修改對應關係，我就可以吃不同的user & callback & setting \
+我的route是動態路由，因此如果你會的話，可以修改對應關係，我就可以吃不同的user & callback & setting \
 https://hahaha0417.zapto.org:8443/api/1.0/line/bot/common/callback/ha[user]/ha[callback]/ha[setting] \
 對應我資料夾的 \
 user : D:\ftp\bot\hahaha \
